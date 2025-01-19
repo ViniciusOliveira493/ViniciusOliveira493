@@ -7,7 +7,7 @@
 <div>
   Ferramentas e Tecnologias:
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgres,bootstrap,html,css,js,arduino,<!--blender-->)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgres,bootstrap,html,css,js,arduino,androidstudio,<!--blender-->)](https://skillicons.dev)
 </div>
 <!-- Hi there 👋-->
 
